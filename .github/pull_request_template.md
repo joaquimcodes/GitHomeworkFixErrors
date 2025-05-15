@@ -15,11 +15,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Joaquim Costa
+- Your City: London
+- Your Slack Name: Joaquim Costa
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: ITP-May-25
+- Week: Week 1
